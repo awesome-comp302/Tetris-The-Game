@@ -1,0 +1,38 @@
+
+
+Version:	3.5
+CmdLine:	C:\Users\Berk\Documents\tetrisGame\Tetris The Game\Tetris.exe --l4j-debug
+WOW64:		no
+Working dir:	C:\Users\Berk\Documents\tetrisGame\Tetris The Game\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_67
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_67
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.7.0_67 (32-bit)
+Add classpath:	javazoom.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Berk\Documents\tetrisGame\Tetris The Game\Tetris.exe;javazoom.jar" application.Main
+Args length:	104/32768 chars
+Exit code:	0
+
+
+Version:	3.5
+CmdLine:	C:\Users\Berk\Documents\tetrisGame\Tetris The Game\Tetris.exe --l4j-debug
+WOW64:		no
+Working dir:	C:\Users\Berk\Documents\tetrisGame\Tetris The Game\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_67
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_67
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.7.0_67 (32-bit)
+Add classpath:	javazoom.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Berk\Documents\tetrisGame\Tetris The Game\Tetris.exe;javazoom.jar" application.Main
+Args length:	104/32768 chars
+Exit code:	0
